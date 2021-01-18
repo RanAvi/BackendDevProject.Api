@@ -6,3 +6,12 @@ C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api\BackendDevProjec
 C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api\BackendDevProject.DAL\obj\Debug\netcoreapp3.1\BackendDevProject.DAL.csproj.CoreCompileInputs.cache
 C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api\BackendDevProject.DAL\obj\Debug\netcoreapp3.1\BackendDevProject.DAL.dll
 C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api\BackendDevProject.DAL\obj\Debug\netcoreapp3.1\BackendDevProject.DAL.pdb
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.DAL\bin\Debug\netcoreapp3.1\BackendDevProject.DAL.deps.json
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.DAL\bin\Debug\netcoreapp3.1\BackendDevProject.DAL.dll
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.DAL\bin\Debug\netcoreapp3.1\BackendDevProject.DAL.pdb
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.DAL\obj\Debug\netcoreapp3.1\BackendDevProject.DAL.csprojAssemblyReference.cache
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.DAL\obj\Debug\netcoreapp3.1\BackendDevProject.DAL.AssemblyInfoInputs.cache
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.DAL\obj\Debug\netcoreapp3.1\BackendDevProject.DAL.AssemblyInfo.cs
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.DAL\obj\Debug\netcoreapp3.1\BackendDevProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.DAL\obj\Debug\netcoreapp3.1\BackendDevProject.DAL.dll
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.DAL\obj\Debug\netcoreapp3.1\BackendDevProject.DAL.pdb

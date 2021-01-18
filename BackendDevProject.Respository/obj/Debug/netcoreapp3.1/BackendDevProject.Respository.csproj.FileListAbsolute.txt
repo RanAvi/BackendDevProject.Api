@@ -12,3 +12,17 @@ C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api\BackendDevProjec
 C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api\BackendDevProject.Respository\obj\Debug\netcoreapp3.1\BackendDevProject.Respository.csproj.CopyComplete
 C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api\BackendDevProject.Respository\obj\Debug\netcoreapp3.1\BackendDevProject.Respository.dll
 C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api\BackendDevProject.Respository\obj\Debug\netcoreapp3.1\BackendDevProject.Respository.pdb
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.Respository\bin\Debug\netcoreapp3.1\BackendDevProject.Respository.deps.json
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.Respository\bin\Debug\netcoreapp3.1\BackendDevProject.Respository.dll
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.Respository\bin\Debug\netcoreapp3.1\BackendDevProject.Respository.pdb
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.Respository\bin\Debug\netcoreapp3.1\BackendDevProject.DAL.dll
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.Respository\bin\Debug\netcoreapp3.1\BackendDevProject.Domain.dll
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.Respository\bin\Debug\netcoreapp3.1\BackendDevProject.DAL.pdb
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.Respository\bin\Debug\netcoreapp3.1\BackendDevProject.Domain.pdb
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.Respository\obj\Debug\netcoreapp3.1\BackendDevProject.Respository.csprojAssemblyReference.cache
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.Respository\obj\Debug\netcoreapp3.1\BackendDevProject.Respository.AssemblyInfoInputs.cache
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.Respository\obj\Debug\netcoreapp3.1\BackendDevProject.Respository.AssemblyInfo.cs
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.Respository\obj\Debug\netcoreapp3.1\BackendDevProject.Respository.csproj.CoreCompileInputs.cache
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.Respository\obj\Debug\netcoreapp3.1\BackendDevProject.Respository.csproj.CopyComplete
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.Respository\obj\Debug\netcoreapp3.1\BackendDevProject.Respository.dll
+C:\Users\ran.DESKTOP-DO4GLUF\source\repos\BackendDevProject.Api2\BackendDevProject.Respository\obj\Debug\netcoreapp3.1\BackendDevProject.Respository.pdb
